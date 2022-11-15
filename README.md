@@ -28,3 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kivip22&" alt="kivip22" /></p>
 
+
+##Snake eating my contribution graph 
+![snake gif](https://github.com/kivip22/kivip22/blob/output/github-contribution-grid-snake.gif)
